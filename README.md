@@ -1,1 +1,1 @@
-# CECS 282 Solitaire Prime
+#  Solitaire Prime
