@@ -1,1 +1,1 @@
-# Kumar
+# CECS 282 Solitaire Prime
